@@ -1,5 +1,5 @@
-##### initial server setup
-cf. (Digital Ocean Guide)[https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu]
+## initial server setup
+cf. [Digital Ocean Guide](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu)
 
 assuming that your ssh key was placed on the vm when it was created
 
@@ -48,6 +48,7 @@ then
 service ssh restart
 ```
 
+## misc.
 
 ##### install file.deb
 ```
